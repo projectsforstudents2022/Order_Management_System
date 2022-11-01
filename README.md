@@ -1,6 +1,12 @@
 # Order_Management_System
 
-## Run the following commands in the project's directory to create the database
+## Install Requirement.txt
+
+```
+pip install -r requirements.txt
+```
+
+## Run the following commands to create database
 ```
 python manage.py makemigrations homepage
 python manage.py migrate homepage
