@@ -1,6 +1,6 @@
 # Order_Management_System
 
-## Run project, run the following commands in the project's directory to create the database. When running the software for the first time, it is necessary to run each command for each app in the project
+## Run the following commands in the project's directory to create the database
 ```
 python manage.py makemigrations homepage
 python manage.py migrate homepage
@@ -24,7 +24,7 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
-## Outrput
+## Output
 
 ![Screenshot](picture1.png)
 
